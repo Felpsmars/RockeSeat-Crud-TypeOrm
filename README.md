@@ -29,6 +29,6 @@ o projeto já contém um arquivo ```.YML``` de exemplo e um mesmo com as configu
 
 * Para rodar todos os testes:
 
-  ```
-    npm test
-  ```
+```
+npm test
+```
